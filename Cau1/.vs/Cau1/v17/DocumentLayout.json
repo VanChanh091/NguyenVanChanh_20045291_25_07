@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA729B12-DEDB-4F79-8FFD-B7A4A09F1DEB}|Cau1_test\\Cau1_test.csproj|d:\\20045291\\kiemthu\\bt_tuan\\bt_th\\nguyenvanchanh_20045291_25_07\\cau1\\cau1_test\\data\\datadriven.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA729B12-DEDB-4F79-8FFD-B7A4A09F1DEB}|Cau1_test\\Cau1_test.csproj|solutionrelative:cau1_test\\data\\datadriven.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA729B12-DEDB-4F79-8FFD-B7A4A09F1DEB}|Cau1_test\\Cau1_test.csproj|D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\cau1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA729B12-DEDB-4F79-8FFD-B7A4A09F1DEB}|Cau1_test\\Cau1_test.csproj|solutionrelative:cau1_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FE09BE-FC5B-446E-83E9-C71BA2368798}|Cau1\\Cau1.csproj|D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\cau1\\findstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FE09BE-FC5B-446E-83E9-C71BA2368798}|Cau1\\Cau1.csproj|solutionrelative:cau1\\findstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindString.cs",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\Cau1\\FindString.cs",
+              "RelativeDocumentMoniker": "Cau1\\FindString.cs",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\Cau1\\FindString.cs",
+              "RelativeToolTip": "Cau1\\FindString.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:40:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dataDriven.csv",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\Cau1_test\\data\\dataDriven.csv",
+              "RelativeDocumentMoniker": "Cau1_test\\data\\dataDriven.csv",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\Cau1_test\\data\\dataDriven.csv",
+              "RelativeToolTip": "Cau1_test\\data\\dataDriven.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-25T08:45:01.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\Cau1_test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Cau1_test\\UnitTest1.cs",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau1\\Cau1_test\\UnitTest1.cs",
+              "RelativeToolTip": "Cau1_test\\UnitTest1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T08:40:42.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

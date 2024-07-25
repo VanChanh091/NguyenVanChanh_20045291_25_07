@@ -1,0 +1,7 @@
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_25_07\Cau2\Cau2\bin\Debug\Cau2.exe.config
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_25_07\Cau2\Cau2\bin\Debug\Cau2.exe
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_25_07\Cau2\Cau2\bin\Debug\Cau2.pdb
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_25_07\Cau2\Cau2\obj\Debug\Cau2.csproj.AssemblyReference.cache
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_25_07\Cau2\Cau2\obj\Debug\Cau2.csproj.CoreCompileInputs.cache
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_25_07\Cau2\Cau2\obj\Debug\Cau2.exe
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_25_07\Cau2\Cau2\obj\Debug\Cau2.pdb

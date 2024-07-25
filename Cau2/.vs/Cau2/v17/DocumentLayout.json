@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{137F7E23-BBBE-447E-86AC-2E2F00CE25BA}|cau2_test\\cau2_test.csproj|d:\\20045291\\kiemthu\\bt_tuan\\bt_th\\nguyenvanchanh_20045291_25_07\\cau2\\cau2_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137F7E23-BBBE-447E-86AC-2E2F00CE25BA}|cau2_test\\cau2_test.csproj|solutionrelative:cau2_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D101CCBC-560F-4D59-9E6D-0131A895B6A3}|Cau2\\Cau2.csproj|d:\\20045291\\kiemthu\\bt_tuan\\bt_th\\nguyenvanchanh_20045291_25_07\\cau2\\cau2\\classcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D101CCBC-560F-4D59-9E6D-0131A895B6A3}|Cau2\\Cau2.csproj|solutionrelative:cau2\\classcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassCau2.cs",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau2\\Cau2\\ClassCau2.cs",
+              "RelativeDocumentMoniker": "Cau2\\ClassCau2.cs",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau2\\Cau2\\ClassCau2.cs",
+              "RelativeToolTip": "Cau2\\ClassCau2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:09:50.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau2\\cau2_test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "cau2_test\\UnitTest1.cs",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BT_TH\\NguyenVanChanh_20045291_25_07\\Cau2\\cau2_test\\UnitTest1.cs",
+              "RelativeToolTip": "cau2_test\\UnitTest1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:09:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
